@@ -1,10 +1,4 @@
 
-/*******************************
- * @author: Parsa Jalilifar
- * Student ID: 133308189
- * Email: pjalilifar@myseneca.ca
- *******************************/
-
 package com.seneca.accounts;
 import java.math.BigDecimal;
 
