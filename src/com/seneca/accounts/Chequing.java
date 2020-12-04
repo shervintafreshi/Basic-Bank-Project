@@ -1,4 +1,11 @@
 
+
+/*******************************
+ * @author: Shervin Tafreshipour
+ * Student ID: 155199169
+ * Email: stafreshipour@myseneca.ca
+ *******************************/
+
 package com.seneca.accounts;
 
 import java.math.BigDecimal;
