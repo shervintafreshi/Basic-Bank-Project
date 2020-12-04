@@ -99,12 +99,6 @@ public class AppTest {
 
     }
 
-    /*******************************
-     * @author: Parsa Jalilifar
-     * Student ID: 133308189
-     * Email: pjalilifar@myseneca.ca
-     *******************************/
-
     // JUnit Testing for GIC Class
 
     @Test
@@ -158,12 +152,6 @@ public class AppTest {
         testAccount.calculateTax();
         assertEquals(71.14, testAccount.getInterestIncome(), 0.00);
     }
-
-    /*******************************
-     * @author: Parsa Jalilifar
-     * Student ID: 133308189
-     * Email: pjalilifar@myseneca.ca
-     *******************************/
 
     //JUnit Testing for Bank Class
 
