@@ -3,12 +3,7 @@
  * @author: Shervin Tafreshipour
  * Student ID: 155199169
  * Email: stafreshipour@myseneca.ca
- *
- *
- * @author: Parsa Jalilifar
- * Student ID: 133308189
- * Email: pjalilifar@myseneca.ca
- *******************************/
+ ***********************************/
 
 package com.btp400;
 
